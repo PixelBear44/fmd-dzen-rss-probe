@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ф.М.Д. – техническая лента, без публикаций</title>
+    <link>https://pixelbear44.github.io/fmd-dzen-rss-probe/</link>
+    <description>Тест доступности RSS: намеренно нет опубликованных материалов.</description>
+    <language>ru</language>
+    <atom:link href="https://pixelbear44.github.io/fmd-dzen-rss-probe/feed.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

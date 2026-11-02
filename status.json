@@ -1,0 +1,11 @@
+{
+  "environment": "PUBLIC_TECHNICAL_PROBE_ONLY",
+  "site_published": "UNKNOWN_UNTIL_VERIFIED",
+  "rss_ready_for_dzen": false,
+  "dzen_channel_connected": false,
+  "dzen_ingest_verified": false,
+  "feed_items": 0,
+  "public_article_count": 0,
+  "contains_personal_or_media_assets": false,
+  "note": "This file only describes the fixture. It is not a live deployment report."
+}
